@@ -23,14 +23,14 @@ const Resume = () => {
                     <hr style={{borderTop: '3px solid blue', width: '65%'}}/>
                     <p>This is Md. Mehedi Hasan. I am a web developer with a very good knowledge of React and JavaScript. I know about the strongly typed languages also like C/C++, Java, Python etc. I always love to solve newer problems. I have solved many Problems from different online problem solving sites. So I am very much confident about this type of problem solving.</p>
                     <hr style={{borderTop: '3px solid blue', width: '65%'}}/>
+                    <h5>Website</h5>
+                    <p>https://mehedi-hasan.netlify.app/</p>
                     <h5>Address</h5>
                     <p>Mirpur, Dhaka, Bangladesh</p>
                     <h5>Phone</h5>
                     <p>+880 1765753030</p>
                     <h5>Email</h5>
                     <p>millathasan125@gmail.com</p>
-                    <h5>Website</h5>
-                    <p>mywebsite.com</p>
                     <hr style={{borderTop: '3px solid blue', width: '65%'}}/>
                 </Cell>
                 <Cell className="resume-right-col" col={8}>
