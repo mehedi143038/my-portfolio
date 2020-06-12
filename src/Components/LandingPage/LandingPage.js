@@ -20,17 +20,14 @@ const LandingPage = () => {
                         <p>HTML | CSS | Bootstrap | JavaScript | React | MongoDB | Node.js | Java | python </p>
                     
                         <div className="social-link">
-                            <a href="" rel="noopener noreferrer" target="_blank">
+                            <a href="https://www.linkedin.com/in/mehedi-hasan-645939156/" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                             </a>
-                            <a href="" rel="noopener noreferrer" target="_blank">
+                            <a href="https://github.com/mehedi143038" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-github-square" aria-hidden="true"></i>
                             </a>
-                            <a href="" rel="noopener noreferrer" target="_blank">
+                            <a href="https://web.facebook.com/profile.php?id=100006376833001" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-facebook-square" aria-hidden="true"></i>
-                            </a>
-                            <a href="" rel="noopener noreferrer" target="_blank">
-                                <i className="fa fa-youtube-square" aria-hidden="true"></i>
                             </a>
                         </div>
                     </div>
