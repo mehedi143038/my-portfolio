@@ -24,7 +24,7 @@ const Resume = () => {
                     <p>This is Md. Mehedi Hasan. I am a web developer with a very good knowledge of React and JavaScript. I know about the strongly typed languages also like C/C++, Java, Python etc. I always love to solve newer problems. I have solved many Problems from different online problem solving sites. So I am very much confident about this type of problem solving.</p>
                     <hr style={{borderTop: '3px solid blue', width: '65%'}}/>
                     <h5>Website</h5>
-                    <p>https://mehedi-hasan.netlify.app/</p>
+                    <a href="https://mehedi-hasan.netlify.app/">https://mehedi-hasan.netlify.app/</a>
                     <h5>Address</h5>
                     <p>Mirpur, Dhaka, Bangladesh</p>
                     <h5>Phone</h5>
